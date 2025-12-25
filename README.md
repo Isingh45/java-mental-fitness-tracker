@@ -23,11 +23,15 @@ The application supports persistent storage, searching, sorting, CSV export, and
 
 ## How to Run
 1. Compile the program:
-   ```bash
-   javac MentalFitnessTracker.java Entry.java
-2. Run the application:
+```bash
+javac MentalFitnessTracker.java Entry.java
+```
 
+2. Run the application:
+```bash
 java MentalFitnessTracker
+```
+
 The application will create and manage a local text file to store journal entries.
 
 ## Design Notes
